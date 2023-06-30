@@ -1,12 +1,12 @@
 Hi, I'm Daniel Bizzi!👋
 
-👩‍💻 QA Specialist
+<h2>👨‍💻 QA Specialist</h2>
 
 I have a strong background in software testing and a passion for ensuring the delivery of high-quality software products. With 10 years of experience in the industry, I have honed my skills in functional testing, regression testing, test automation, and ensuring end-to-end software quality.
 
 I have a solid understanding of QA methodologies, testing tools, and best practices. I excel in creating test automations, comprehensive test plans, executing test cases, and identifying and documenting software defects. 
 
-💻 Skills:
+<h2 align="left" dir="auto"><a id="user-content-skills" class="anchor" aria-hidden="true" href="#skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>💻Skills:</h2>
 <p align="left" dir="auto"> 
   <a href="https://robotframework.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/7deda4901a446c74e93e7fd33bea431495932e49d60414ed5be8ee84c447f779/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65342f526f626f742d6672616d65776f726b2d6c6f676f2e706e67" alt="robot framework" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" style="max-width: 100%;"> </a> 
   <a href="https://www.selenium.dev/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40" style="max-width: 100%;"></a>
@@ -35,7 +35,7 @@ I'm a strong advocate for delivering flawless user experiences and believe in th
 If you're looking for a QA Specialist who is committed to delivering software of the highest quality, feel free to reach out to discuss how we can work together!
 
 
-🌱 I’m currently learning:
+<h2>🌱 I’m currently learning:</h2>
 
 <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%;"> </a><a href="https://www.jenkins.io" rel="nofollow"> <img src="https://camo.githubusercontent.com/265574c40f0816ed0fd67127cfbc382866182a7ec468c614906103c15700e707/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a656e6b696e732f6a656e6b696e732d69636f6e2e737667" alt="jenkins" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="max-width: 100%;">
